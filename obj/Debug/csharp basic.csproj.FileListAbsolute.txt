@@ -1,0 +1,7 @@
+F:\c#\variable\csharp basic\bin\Debug\csharp basic.exe.config
+F:\c#\variable\csharp basic\bin\Debug\csharp basic.exe
+F:\c#\variable\csharp basic\bin\Debug\csharp basic.pdb
+F:\c#\variable\csharp basic\obj\Debug\csharp basic.csprojAssemblyReference.cache
+F:\c#\variable\csharp basic\obj\Debug\csharp basic.csproj.CoreCompileInputs.cache
+F:\c#\variable\csharp basic\obj\Debug\csharp basic.exe
+F:\c#\variable\csharp basic\obj\Debug\csharp basic.pdb
